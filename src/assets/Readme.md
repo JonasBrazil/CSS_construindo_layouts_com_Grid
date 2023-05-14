@@ -52,3 +52,6 @@ Uso do repeat count: auto-fit.
 Como otimizar um projeto com o uso das variáveis de CSS;
 Uso avançado da função minmax;
 Como incluir o gap na largura das colunas.
+
+
+URL : https://css-construindo-layouts-com-grid.vercel.app/#
